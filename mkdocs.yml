@@ -1,11 +1,11 @@
 # APinchofDill config for mkdocs documentation site generator
 
 site_name: Oceanology Docs
-site_url: https://galidar.github.io/oceanology-docs
+site_url: https://github.com/spirit122/wiki
 
 # Repository
 repo_name: Galidar/oceanology-docs
-repo_url: https://github.com/Galidar/oceanology-docs
+repo_url: https://github.com/spirit122/wiki
 edit_uri: ""
 
 # Plugins
